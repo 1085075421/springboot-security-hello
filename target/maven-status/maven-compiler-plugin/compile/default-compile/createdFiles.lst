@@ -1,0 +1,5 @@
+com\example\securityhello\api\HelloController.class
+com\example\securityhello\SecurityHelloApplication.class
+com\example\securityhello\config\SecurityConfig.class
+com\example\securityhello\api\AuthController.class
+com\example\securityhello\api\LoginRequest.class
